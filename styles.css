@@ -5,3 +5,13 @@
 	cellpadding:1px;
 	background-color:green;
 }
+#t12{
+	colspan:1;
+	rowspan:4;
+}
+#t21{
+	align:center;
+}
+#t-image{
+	
+}
